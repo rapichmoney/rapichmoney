@@ -1,11 +1,11 @@
-﻿<picture>
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
   <img src="assets/header-light.svg" alt="rapichmoney — приложения для Windows с открытым кодом" width="960">
 </picture>
 
 Делаю приложения для Windows, которыми пользуюсь сам: музыка и уведомления рядом с работой, подключение к сети и маршруты для приложений.
 
-[Скачать OSTROVOK](https://github.com/rapichmoney/OSTROVOK/releases/latest) · [Скачать RelayDesk](https://github.com/rapichmoney/RelayDesk-VPN/releases/latest)
+[Скачать OSTROVOK](https://github.com/rapichmoney/OSTROVOK/releases/latest) · [Скачать Tunnelito](https://github.com/rapichmoney/Tunnelito/releases/latest)
 
 ## OSTROVOK
 
@@ -17,16 +17,16 @@ Dynamic Island как на iPhone — на компьютере с Windows. Бе
 
 [Исходники](https://github.com/rapichmoney/OSTROVOK) · [Скачать](https://github.com/rapichmoney/OSTROVOK/releases/latest) · [Скриншоты и анимации](https://github.com/rapichmoney/OSTROVOK/blob/main/docs/SHOWCASE.md)
 
-## RelayDesk / Orbit
+## Tunnelito / Orbit
 
 VPN-клиент для Windows с отдельным управлением zapret. Импорт профилей, выбор сервера и маршруты для приложений и сайтов.
 
-<a href="https://github.com/rapichmoney/RelayDesk-VPN"><img src="https://raw.githubusercontent.com/rapichmoney/RelayDesk-VPN/main/docs/images/orbit-home.png" width="640" alt="RelayDesk: интерфейс Orbit с выбором сервера и режимами Прокси и TUN"></a>
+<a href="https://github.com/rapichmoney/Tunnelito"><img src="https://raw.githubusercontent.com/rapichmoney/Tunnelito/main/docs/images/tunnelito-orbit.png" width="640" alt="Tunnelito: интерфейс Orbit с выбором сервера и режимами Прокси и TUN"></a>
 
-[Исходники](https://github.com/rapichmoney/RelayDesk-VPN) · [Установщик](https://github.com/rapichmoney/RelayDesk-VPN/releases/latest)
+[Исходники](https://github.com/rapichmoney/Tunnelito) · [Установщик](https://github.com/rapichmoney/Tunnelito/releases/latest)
 
 ---
 
 **В основе:** C# · .NET · WPF · Windows.
 
-Ошибки и предложения: [OSTROVOK Issues](https://github.com/rapichmoney/OSTROVOK/issues) · [RelayDesk Issues](https://github.com/rapichmoney/RelayDesk-VPN/issues).
+Ошибки и предложения: [OSTROVOK Issues](https://github.com/rapichmoney/OSTROVOK/issues) · [Tunnelito Issues](https://github.com/rapichmoney/Tunnelito/issues).
