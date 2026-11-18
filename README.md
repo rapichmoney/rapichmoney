@@ -3,6 +3,8 @@
   <img src="assets/header-light.svg" alt="rapichmoney — приложения для Windows с открытым кодом" width="960">
 </picture>
 
+[GitHub](https://github.com/rapichmoney) · [Написать мне](https://t.me/rapichmoney) · [Telegram-канал](https://t.me/rapichlinkmoney)
+
 Делаю приложения для Windows, которыми пользуюсь сам: музыка и уведомления рядом с работой, подключение к сети и маршруты для приложений.
 
 [Скачать OSTROVOK](https://github.com/rapichmoney/OSTROVOK/releases/latest) · [Скачать Tunnelito](https://github.com/rapichmoney/Tunnelito/releases/latest)
